@@ -1,0 +1,11 @@
+# Site settings
+title: Mel Sherrin 
+email: msherrin@gmail.com 
+description: This is my blog.  It is about my attemps to code
+baseurl: "msherrin.github.io" # the subpath of your site, e.g. /blog/
+url: "http://msherrin.github.io" # the base hostname & protocol for your site
+twitter_username: melsherrin
+github_username:  msherrin
+
+# Build settings
+markdown: kramdown
